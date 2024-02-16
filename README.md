@@ -1,4 +1,4 @@
-This is a assignment repo for my skill lab. The assignment topic is to create a shopping cart web application.
+This is an assignment repo for my skill lab. The assignment topic is to create a shopping cart web application.
 The following are the instructions provided by the Instructor:
 Activity - 3 :
 Build a Shopping Cart Application UI using HTML, CSS, Javascript, React.Js.
